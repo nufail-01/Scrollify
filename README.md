@@ -6,7 +6,7 @@ It highlights who I am, what I do, and my expertise in a smooth one-page design.
 ---
 ## 🌐 Live Demo
 
-[![Website Preview](assets/images/rentalhomes.png)](https://nufail-01.github.io/Rental-Homes/)
+[![Website Preview](assets/images/scrollify.png)](https://nufail-01.github.io/Rental-Homes/)
 
 ---
 
