@@ -19,9 +19,8 @@ It highlights who I am, what I do, and my expertise in a smooth one-page design.
 
 ## 🛠️ Technologies Used
 - **HTML5**  
-- **CSS3**  
-
-
+- **CSS3**
+- 
 ---
 
 ## 🎨 Features
