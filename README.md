@@ -31,7 +31,7 @@ It highlights who I am, what I do, and my expertise in a smooth one-page design.
 ---
 ## 📂 Source Code
 
-🔗 [GitHub Repository](https://github.com/nufail-01/Eduford-University)
+🔗 [GitHub Repository](https://github.com/nufail-01/Scrollify.git)
 
 ---
 
